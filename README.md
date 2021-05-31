@@ -9,7 +9,7 @@ O objetivo desse projeto é viabilizar uma solução para auxiliar no combate a 
 
 ## Como funciona o Edu
 
-Para utilizar o aplicativo, os alunos irão baixá-lo em seu smartphone, realizar o cadastro e após o procedimento estarão aptos a pedir ajuda. Os professores também poderão acessar o app e se cadastrar como tutores. O aluno busca um tutor e quando acontecer um match, os dois combinam a aula.
+Para utilizar o aplicativo, os alunos irão baixá-lo em seu smartphone, realizar o cadastro e após o procedimento estarão aptos a pedir ajuda. Os professores também poderão acessar o app e se cadastrar como tutores voluntários ou "Edus". O aluno busca um Edu e quando acontecer um match, os dois combinam a aula.
 
 ## Cidade piloto
 
