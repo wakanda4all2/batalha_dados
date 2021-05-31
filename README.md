@@ -13,7 +13,7 @@ Para utilizar o aplicativo, os alunos irão baixá-lo em seu smartphone, realiza
 
 ## Cidade piloto
 
-Escolhemos a cidade de Valparaíso de Goiás por ter mais escolas entre os 10 municípios com notas médias por disciplina entre as mais baixas.
+Escolhemos a cidade de Valparaíso de Goiás por ter mais escolas entre os 10 municípios com as médias mais baixas por disciplina.
 
 ## Expectativas
 
