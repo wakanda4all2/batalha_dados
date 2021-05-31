@@ -17,4 +17,4 @@ Escolhemos a cidade de Valparaíso de Goiás por ter mais escolas entre os 10 mu
 
 ## Expectativas
 
-Espera-se que o aplicativo melhore a aprendizagem do aluno, "substitua" o contato direto com o professor, bastante prejudicado pelo ensino remoto, para a sanar as dúvidas, e incentive o aluno a continuar os estudos.
+Espera-se que o aplicativo melhore a aprendizagem do aluno e que o professor tenha feedbacks do que foi ensinado.
