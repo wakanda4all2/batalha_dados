@@ -1,7 +1,7 @@
-![Alt text](EDU.jpg?raw=true "Title")
+![Edu imagem](EDU.jpg?raw=true "Title")
 
 # Edu
-Projeto de solução para o Hackathon batalha de dados
+Projeto de solução para o Hackathon batalha de dados.
 
 ## Objetivo
 
@@ -17,4 +17,4 @@ Escolhemos a cidade de Valparaíso de Goiás por ter mais escolas entre os 10 mu
 
 ## Expectativas
 
-Espera-se que o aplicativo melhore a aprendizagem do aluno e que o professor tenha feedbacks do que foi ensinado.
+Espera-se que o aplicativo melhore a aprendizagem do aluno e que o professor tenha feedbacks do que foi ensinado, fazendo com que o aluno seja motivado a continuar os estudos.
