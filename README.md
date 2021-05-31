@@ -1,3 +1,5 @@
+![Alt text](EDU.jpg?raw=true "Title")
+
 # Edu
 Projeto de solução para o Hackathon batalha de dados
 
@@ -11,7 +13,7 @@ Para utilizar o aplicativo, os alunos irão baixá-lo em seu smartphone, realiza
 
 ## Cidade piloto
 
-Escolhemos a cidade de Valparaíso de Goiás por ter mais escolas entre as 10 com notas médias dos alunos entre as mais baixas por disciplina.
+Escolhemos a cidade de Valparaíso de Goiás por ter mais escolas entre os 10 municípios com notas médias por disciplina entre as mais baixas.
 
 ## Expectativas
 
