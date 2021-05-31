@@ -52,7 +52,7 @@ class Aluno_materias : AppCompatActivity() {
     }
 
     fun proxima_view() {
-        startActivity(Intent(this, Aluno_materias::class.java))
+        startActivity(Intent(this, principal_activity::class.java))
         finish()
     }
 

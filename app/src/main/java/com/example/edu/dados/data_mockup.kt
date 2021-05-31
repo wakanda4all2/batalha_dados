@@ -1,5 +1,6 @@
 package com.example.edu.dados
 
+import com.example.edu.objetos.Evento
 import com.example.edu.objetos.Usuario
 import com.example.edu.objetos.usuario_tipo
 
@@ -10,6 +11,8 @@ object data_mockup {
     }
 
     var usuarios: MutableList<Usuario> = ArrayList()
+
+    var agendamentos: MutableList<Evento> = ArrayList()
 
 
 
