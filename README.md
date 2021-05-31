@@ -5,7 +5,7 @@ Projeto de solução para o Hackathon batalha de dados
 
 ## Objetivo
 
-O objetivo desse projeto é viabilizar uma solução para auxiliar no combate a evasão escolar no estado de Goiás, utilizando os dados disponibilizados e tecnologia mobile, onde alunos e professores poderão solicitar ajuda através do aplicativo em matérias aqueles estejam com dificuldades de aprendizado.
+O objetivo desse projeto é viabilizar uma solução para auxiliar no combate a evasão escolar no estado de Goiás, utilizando os dados disponibilizados e tecnologia mobile, onde alunos poderão solicitar ajuda através do aplicativo em matérias que estejam com dificuldades de aprendizado.
 
 ## Como funciona o Edu
 
